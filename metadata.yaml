@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8418
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Accum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19031#A-Treatise-on-Adulterations-of-Food-and-Culinary-Poisons--13-Exhibiting-the-Fraudulent-Sophis_
 gutenberg_bookshelf:
 - Chemistry
 - Technology
